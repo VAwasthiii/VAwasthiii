@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Awasthi</h1>
 <h3 align="center">Software Developer | Passionate about Machine Learning | Expertise in MySQL</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sparshiawasthi&label=Profile%20views&color=0e75b6&style=flat" alt="sparshiawasthi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavawasthi&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavawasthi" /> </p>
 
 - 🌱 I’m currently learning **Java and Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://github.com/SparshiAwasthi](https://github.com/VAwasthiii)
+- 👨‍💻 All of my projects are available at [https://github.com/VAwasthiii](https://github.com/VAwasthiii)
 
 - 💬 Ask me about **Java /Python/ ML / mysql**
 
